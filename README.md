@@ -20,6 +20,3 @@ This project was developed as part of my web development learning journey to und
 - CSS3
 - JavaScript
 - Git & GitHub
-
-
-(Add screenshots here later)
